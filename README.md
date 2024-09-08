@@ -6,7 +6,7 @@
 1. To optimize the search of information about PRUE for applicants and students; 
 2. To reduce the burden of university administration
  
-**Programming language**:    Python\n
-**Framework**:               Aiogram\n
+**Programming language**:    Python
+**Framework**:               Aiogram
 **Library**:                 SQlite3
 
