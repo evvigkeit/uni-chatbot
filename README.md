@@ -7,6 +7,8 @@
 2. To reduce the burden of university administration
  
 **Programming language**:    Python
+
 **Framework**:               Aiogram
+
 **Library**:                 SQlite3
 
