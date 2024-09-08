@@ -1,4 +1,4 @@
-﻿## uni-chatbot
+﻿## uni-chatbot 🤖
 
 ### _“The Chatbot System for Minsk brunch of PRUE, including Database Management System” for the "Telegram" platform_ 
 
